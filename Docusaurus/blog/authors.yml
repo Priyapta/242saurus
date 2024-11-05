@@ -1,3 +1,21 @@
+ryuun1corn:
+  name: Yudayana Arief Prasojo
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/ryuun1corn
+  image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShitNZchkCXghonmhDoyDoUrmIYSm9LSFofg&s
+  page: true
+  socials:
+    github: ryuun1corn
+
+Priyapta:
+  name: Priyapta Naufal Sudrajat
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/Priyapta
+  image_url: https://avatars.githubusercontent.com/u/139409847?v=4
+  page: true
+  socials:
+    github: Priyapta
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
